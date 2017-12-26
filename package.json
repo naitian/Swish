@@ -1,0 +1,14 @@
+{
+  "name": "Swish",
+  "version": "1.0.0",
+  "description": "New Tab page for Dribbble",
+  "main": "index.js",
+  "author": "Naitian Zhou",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "dependencies": {
+    "lit-html": "^0.7.1"
+  }
+}

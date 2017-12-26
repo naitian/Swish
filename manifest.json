@@ -1,0 +1,11 @@
+{
+    "name": "Swish",
+    "description": "Dribbble New Tab Extension",
+    "version": "1.0.0",
+    "incognito": "split",
+    "chrome_url_overrides": {
+        "newtab": "dist/index.html"
+    },
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+    "manifest_version": 2
+}
