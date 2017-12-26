@@ -2,6 +2,8 @@
 
 > A little Chrome New Tab page with [Dribbble](http://dribbble.com) shots.
 
+![Screenshot](https://imgur.com/Pg1MiH6 "Screenshot")
+
 ## Installing
 
 Currently, there are no prebuilt extensions, and it is not available on the Chrome web store. You can build it yourself, though.
