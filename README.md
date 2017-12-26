@@ -2,7 +2,7 @@
 
 > A little Chrome New Tab page with [Dribbble](http://dribbble.com) shots.
 
-![Screenshot](https://imgur.com/Pg1MiH6 "Screenshot")
+![Screenshot](https://imgur.com/Pg1MiH6.png "Screenshot")
 
 ## Installing
 
