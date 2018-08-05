@@ -1,3 +1,5 @@
+Deprecated since the new Dribbble API. This extension no longer works. :cry:
+
 # Swish
 
 > A little Chrome New Tab page with [Dribbble](http://dribbble.com) shots.
